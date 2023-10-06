@@ -1,3 +1,26 @@
+# Infos:
+
+# Dieser Code dient dazu, die bereits generierten Wortlisten (UniqueWords) 
+# nach mehrere Suchworten für eine Partei (siehe party), 
+# in einer Legislaturperiode (siehe legislatur) zu durchsuchen. 
+# Dieser Code speichert die gefundenen Begriffe (Bsp: Ad-hoc-Koalitionen), 
+# die das Suchwort (Bsp: koalition) enthalten, in einer neuen Liste. 
+
+# Hinweise: 
+
+# Dateipfade müssen angepasst werden. 
+# Suchwörter können geändert werden werden. 
+
+# Damit die Dateien gespeichert werden können, 
+# müssen die entsprechenden Ordner 
+# results/wortsuche/{party}/{legislatur}/{suchwort}_{party}_{legislatur}
+# angelegt sein. 
+# Lege neben den gleichbleibenden Namen auch alle Ordner für die sich ändernden Angaben an 
+# Ordner mit den Namen: AfD, CDU_CSU, DIE LINKE, BÜNDNIS 90_DIE GRÜNEN, SPD
+# jeweils einen Ordner 19 und einen Ordner 20 
+
+
+
 import json
 
 party = 'AfD'
