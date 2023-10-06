@@ -1,3 +1,20 @@
+# Info: 
+
+# Dieser Code dient dazu, vollständige Satze zu einzigartigen Worten zu finden, wobei die Suchworte manuell eingegeben werden.
+
+# Der Sinn dieser Datei ist, schnell den Satz für nur ein Wort (oder mehrere Worte) zu finden. 
+# Das kann der Fall sein, wenn ein interessanter Begriff in einer Unique-Words-Liste steht, 
+# dieser aber nicht in einer der themenspezifischen Listen vorkommt, die für die Satzsuche nach Listen benutzt werden. 
+# Das kann außerdem der Fall sein, wenn man nicht lange warten will und keine ganze Liste refferieren möchte. 
+
+# Die Ergebnisse werden in der Anwendung (z.B. PyCharm) angezeigt. 
+# Es gibt eine andere Version dieses Codes, welcher Ergebnisse speichert. 
+
+# Hinweis:
+
+# Die Ergebnisse werden nicht gespeichert.
+# Die Suchworte müssen manuell eingetragen werden. 
+
 import jsonlines
 import nltk
 import re
