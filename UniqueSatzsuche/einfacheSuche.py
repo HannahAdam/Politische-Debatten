@@ -1,9 +1,6 @@
 import json
 import re
 import nltk
-'''
-nltk.download('punkt')
-'''
 
 def suche_in_reden(legislatur, suchwoerter_dict):
     # Laden der Reden aus der JSON-Datei
