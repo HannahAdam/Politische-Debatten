@@ -1,3 +1,25 @@
+# Info: 
+
+# Dieser Code dient dazu, die vollständigen Satze zu den einzigartigen Worten zu finden.
+
+# Das ist wichtig, um die gefundenen Begriffen in einen Kontext zu setzten. 
+# Dieser Teil ist deshalb relevant, weil er explizit zeigt, wie die verschiedenen Parteien Sprache 
+# (insbesondere Wortzusammensetzungen) verwenden. 
+
+# Hinweis:
+
+# Der Dateipfad zu den Listen (absoluter_dateipfad_suchwoerter =) muss manuell angepasst werden, 
+# je nach dem für welche Liste ist ganzen Sätze gefunden werden sollen. 
+
+# Die Listen müssen außerdem manuell umbenannt werden. 
+# Das muss sein, weil die Namen, welche durch das erstellen generiert wurden, nicht gelesen werden können.
+# Beispiel: Den Dateinamen ['Zwang', 'zwang']ergebnisse.json  zu  Zwang-zwang-ergebnisse.json  umbenennen.
+
+# Der Name für die neue Datei muss auch manuell angepasst werden (bei # Speichern Sie das gesamte Ergebnis in einer JSON-Datei), 
+# sonst würde eine, vorher mit dem Code erstellte, Datei überschrieben werden. 
+# Beispiel: schein-ergebnisse.json -> zwang-ergebnisse.json
+
+
 import json
 import re
 import nltk
@@ -50,7 +72,7 @@ def suche_in_reden(legislatur, suchwoerter_dict):
     return treffer
 
 def sammle_und_speichere_ergebnisse():
-    # Verwenden Sie den absoluten Dateipfad zur "Pseudo-pseudo-ergebnisse.json"-Datei
+    # Verwenden Sie den absoluten Dateipfad, z.B. zur "Pseudo-pseudo-ergebnisse.json"-Datei
     absoluter_dateipfad_suchwoerter = '/Users/hannahadam/PycharmProjects/pythonProject/HelloWorld/results/vergleich/Schein-schein-ergebnisse.json'
 
     # Laden der Suchwörter aus der JSON-Datei
