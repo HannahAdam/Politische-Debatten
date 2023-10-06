@@ -1,0 +1,44 @@
+{In dieser Datei werden nur die Parteien aufgelistet, bei welchen das Suchwort gefunden wurde. Die Suche wurde dennoch bei allen Parteien durchgeführt. Wenn die Partei nicht aufgelistet ist, wurde das Suchwort in ihren Reden nicht verwendet.}
+
+{
+    "AfD": [
+        "Hysterien",
+        "Hysterisierung",
+        "Coronahysterie",
+        "Umwelthysteriker",
+        "Klimahysteriker",
+        "herbeihysterisierten",
+        "Umwelthysterikern",
+        "hysteriebedingt",
+        "Dieselhysterie",
+        "Fukushima-Hysterie",
+        "klimahysterischen",
+        "Moralhysteriepolitik",
+        "Hysteriestrategie",
+        "Hysterisch",
+        "Verstaatlichungshysterie",
+        "Massenhysterie",
+        "Klimahysterikern",
+        "Privatisierungshysterie",
+        "hysteriefreie",
+        "Klimaschutzhysterie",
+        "Klimahysteriker",
+        "Hysteriker",
+        "Coronahysterie",
+        "Klimahysterie",
+        "Coronamaßnahmenhysterie",
+        "Nitrathysterie"
+    ],
+    "CDU_CSU": [
+        "Klimahysteriewelle"
+    ],
+    "SPD": [
+        "Fake-News-Hysterie",
+        "Hysteriewahn",
+        "hysterieverbreitenden"
+    ],
+    "BÜNDNIS 90_DIE GRÜNEN": [
+        "Hysterien",
+        "Hysterieecke"
+    ]
+}

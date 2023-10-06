@@ -1,0 +1,1043 @@
+{
+    "CDU_CSU": {
+        "Konfliktideologien": {
+            "Legislatur 19": [
+                {
+                    "name": "Uwe Schummer",
+                    "party": "CDU_CSU",
+                    "satz": "Und aus der gleichen Denke heraus sagen wir: Solidarität zwischen unterschiedlichen Kräften und Interessengruppen sowie eine partnerschaftliche Konsenskultur sind das Kontrastprogramm zu den Konfliktideologien jener und auch dieser Zeit, egal ob sie jetzt auf der einen Seite den Klassenkampf oder auf der anderen Seite den Rassenkampf propagieren."
+                }
+            ]
+        },
+        "ideologiegeleitet": {
+            "Legislatur 19": [
+                {
+                    "name": "Marcus Weinberg",
+                    "party": "CDU_CSU",
+                    "satz": "Sie wollen nicht ideologiegeleitet diktiert bekommen, was sie zu tun oder nicht zu tun haben."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Max Straubinger",
+                    "party": "CDU_CSU",
+                    "satz": "Diese Politik ist zu ideologiegeleitet."
+                }
+            ]
+        },
+        "ideologiebehaftetes": {
+            "Legislatur 19": [
+                {
+                    "name": "Marcus Weinberg",
+                    "party": "CDU_CSU",
+                    "satz": "Das heißt, dass wir Wertschätzung an den Tag legen und Möglichkeiten schaffen, um Bindungen und Verantwortungsübernahme zu stärken; wir wollen kein ideologiebehaftetes Bild der Familienpolitik darstellen."
+                }
+            ]
+        },
+        "ideologiefreiem": {
+            "Legislatur 19": [
+                {
+                    "name": "Astrid Mannes",
+                    "party": "CDU_CSU",
+                    "satz": "Die Ergebnisse werden ja von neutraler Stelle mit, so denke ich mal, ideologiefreiem Blick erstellt, und das ist gut so."
+                }
+            ]
+        },
+        "Ideologievermittlung": {
+            "Legislatur 19": [
+                {
+                    "name": "Marc Henrichmann",
+                    "party": "CDU_CSU",
+                    "satz": "Sie verstehen in Ihrem Gesetzentwurf, wenn ich ihn so interpretiere, wie ich ihn interpretiere, die Stiftungen als Ideologievermittlung und Geldbeschaffungsmaschinerie – und genau das sind sie nicht."
+                }
+            ]
+        },
+        "Tonnen-Ideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Andreas G. Lämmel",
+                    "party": "CDU_CSU",
+                    "satz": "Früher hieß das „Tonnen-Ideologie“; das kennen wir noch aus DDR-Zeiten."
+                }
+            ]
+        }
+    },
+    "SPD": {
+        "Hassideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Yasmin Fahimi",
+                    "party": "SPD",
+                    "satz": "Hören Sie auf mit Ihrer Hassideologie und damit, in einer solchen Art und Weise Fakten zu verdrehen!"
+                }
+            ]
+        },
+        "AfD-Ideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Eberhard Brecht",
+                    "party": "SPD",
+                    "satz": "Ich bedaure es ein wenig, dass unser Kollege von Gronow diese Rede zum Wehrbeauftragtenbericht genutzt hat, die AfD-Ideologie zu verbreiten, anstatt sich mal sachlich mit dem Bericht auseinanderzusetzen."
+                }
+            ]
+        },
+        "Ülkücü-Ideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Uli Grötsch",
+                    "party": "SPD",
+                    "satz": "Aber was im Antrag noch wichtiger ist: Wir wollen eine Informationsreihe, eine Aufklärungskampagne starten, um die Ülkücü-Ideologie offenzulegen."
+                }
+            ]
+        },
+        "Ideologieschubladen": {
+            "Legislatur 19": [
+                {
+                    "name": "Rita Schwarzelühr-Sutter",
+                    "party": "SPD",
+                    "satz": "Bloße Phrasen und das in irgendwelche Ideologieschubladen stecken zu wollen, ist einfach nicht angebracht und völlig fehl am Platz."
+                }
+            ]
+        },
+        "Bevölkerungsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Gülistan Yüksel",
+                    "party": "SPD",
+                    "satz": "Wir unterstützen Frauen und Männer in ihrem Kinderwunsch, weil sie es selbst wollen, und nicht, weil es eine Bevölkerungsideologie ist."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Michael Schrodi",
+                    "party": "SPD",
+                    "satz": "Das, was Sie hier vortragen,\n                    ist keine Familienpolitik, sondern krude, nationalistische Bevölkerungsideologie, meine sehr geehrten Damen und Herren!"
+                }
+            ]
+        },
+        "Unrechtsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Karl-Heinz Brunner",
+                    "party": "SPD",
+                    "satz": "In dieser Entscheidung hat das Bundesverfassungsgericht noch einmal ausdrücklich gesagt, dass § 130 StGB eben kein allgemeines Gesetz ist, sondern ein Gesetz, das explizit auf die nationalsozialistische Unrechtsideologie abstellt."
+                }
+            ]
+        },
+        "ideologiebefreite": {
+            "Legislatur 19": [
+                {
+                    "name": "Sabine Dittmar",
+                    "party": "SPD",
+                    "satz": "Deshalb: Lassen Sie uns eine ideologiebefreite Debatte über dieses Thema führen."
+                }
+            ]
+        },
+        "Ideologieanfälligkeit": {
+            "Legislatur 19": [
+                {
+                    "name": "Christian Lange",
+                    "party": "SPD",
+                    "satz": "Meine Damen und Herren, dies sichert, dass Juristinnen und Juristen in Zukunft die Fähigkeit erwerben, das positive Recht und die Rechtspraxis kritisch zu reflektieren und die Ideologieanfälligkeit des Rechts und sein Missbrauchspotenzial zu erkennen."
+                }
+            ]
+        }
+    },
+    "AfD": {
+        "CO2-Ideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Dann der Etikettenschwindel der ökosozialen Marktwirtschaft, hinter dem sich einfach nur Planwirtschaft unter dem Dogma der CO2-Ideologie verbirgt."
+                },
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Die Teuerung hat uralte hausgemachte ideologische Ursachen: die Schulden, die EZB-Gelddruckerei, die CO2-Ideologie und eben die Coronamaßnahmen."
+                },
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Massive Staatsverschuldung in Europa und Deutschland in Verbindung mit der Monetisierung dieser Gelder durch die EZB, dann Klimaschutz-CO2-Ideologie, was Energie und Nahrungsmittel massiv verteuert, Coronamaßnahmen, die die Transportlogistik weltweit erschweren und das Angebot verknappen, Zuwanderung, die die Preise für Wohnraum nach oben treibt, Bürokratie und EU‑Planwirtschaft, eine Sanktionspolitik, die uns selbst am meisten schadet, sowie fehlende Kartellkontrolle über die Energie- und Benzinoligopolunternehmen – all das sind Inflationsursachen."
+                },
+                {
+                    "name": "Rainer Kraft",
+                    "party": "AfD",
+                    "satz": "Nein, es ist wie so oft bei Ihnen die CO2-Ideologie."
+                },
+                {
+                    "name": "Rainer Kraft",
+                    "party": "AfD",
+                    "satz": "Die Alternative für Deutschland folgt bekanntlich nicht Ihrer CO2-Ideologie; aber den anderen Fraktionen ist das nach eigener Aussage immer so wichtig."
+                }
+            ]
+        },
+        "Null-Covid-Ideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Jürgen Braun",
+                    "party": "AfD",
+                    "satz": "Das ist chinesische Null-Covid-Ideologie in Reinform."
+                }
+            ]
+        },
+        "Klimaideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Volker Münz",
+                    "party": "AfD",
+                    "satz": "Auch das CO 2 -Gebäudesanierungsprogramm gehört zu diesem Irrweg, angetrieben von einer Klimaideologie, die sich zu einem neuen Glaubensbekenntnis entwickelt hat."
+                },
+                {
+                    "name": "Heiko Wildberg",
+                    "party": "AfD",
+                    "satz": "Wenn wir unseren Kindern, meine Damen und Herren, eine lebenswerte Umwelt hinterlassen wollen, brauchen wir einen solide finanzierten, wirksamen Umwelt- und Klimaschutz, aber wir brauchen keine Klimaideologie."
+                },
+                {
+                    "name": "Enrico Komning",
+                    "party": "AfD",
+                    "satz": "Der uns hier vorliegende Antrag der FDP wird nicht dazu führen, dass die Zahl der Unternehmensgründer wieder zunimmt; der von Gender- und Klimaideologie geprägte Antrag der Grünen schon mal gar nicht."
+                },
+                {
+                    "name": "Leif-Erik Holm",
+                    "party": "AfD",
+                    "satz": "Die Menschen sollen nicht mehr mit ihrem Diesel zur Arbeit fahren, und das alles auf Basis einer Klimaideologie, die mit gesundem Menschenverstand nun wirklich nichts mehr zu tun hat."
+                },
+                {
+                    "name": "Dirk Spaniel",
+                    "party": "AfD",
+                    "satz": "Sie wollen nicht die volkswirtschaftlichen Schäden durch Staus und marode Brücken beseitigen, sondern vertuschen, dass Ihre Klimaideologie an ihre Grenzen gerät."
+                },
+                {
+                    "name": "Peter Felser",
+                    "party": "AfD",
+                    "satz": "Man folgt dort einer grünen Klimaideologie und lässt das Holz verrotten."
+                },
+                {
+                    "name": "Martin Hohmann",
+                    "party": "AfD",
+                    "satz": "Dieser Haushalt ist Ausdruck der Klimaideologie."
+                },
+                {
+                    "name": "Enrico Komning",
+                    "party": "AfD",
+                    "satz": "Mit anderen Worten: Wenn es um Ihre Klimaideologie geht, funktionieren auf einmal die erstaunlichsten Dinge: Bürokratieabbau und Rechtswegverkürzung sollen im Hinblick auf den Kohleausstieg stattfinden können."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Steffen Kotré",
+                    "party": "AfD",
+                    "satz": "Die totalitäre Klimaideologie nimmt Formen an."
+                },
+                {
+                    "name": "Steffen Kotré",
+                    "party": "AfD",
+                    "satz": "Die totalitäre Klimaideologie nimmt Formen an."
+                },
+                {
+                    "name": "Karsten Hilse",
+                    "party": "AfD",
+                    "satz": "Sie nutzen die Klimaideologie – ich sagte es bereits vor drei Jahren – als ein Vehikel, um letztendlich sozialistisch-kommunistische Verhältnisse einzuführen, mit all den Annehmlichkeiten, die Sozialismus immer und überall mit sich brachte: Verelendung, Unfreiheit, Umerziehung von Menschen zu obrigkeitshörigen Sklaven, Millionen Tote."
+                },
+                {
+                    "name": "Mike Moncsek",
+                    "party": "AfD",
+                    "satz": "Und wir, die AfD, sind gegen die Verknüpfung von Verkehrspolitik mit grüner, linker und sozialistischer Klimaideologie."
+                },
+                {
+                    "name": "Wolfgang Wiehle",
+                    "party": "AfD",
+                    "satz": "60 Milliarden Euro, die 2021 übrig blieben und nicht für Coronahilfen eingesetzt wurden, hat die Koalition kurzerhand zweckentfremdet und für ihre Klimaideologie in den EKF gesteckt."
+                },
+                {
+                    "name": "Karsten Hilse",
+                    "party": "AfD",
+                    "satz": "Verabschieden Sie sich von der Klimaideologie!"
+                },
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Der hohe Preis der Klimaideologie ist nun da, und die Grünen finden das auch noch gut: Lebensmittel seien eigentlich viel zu billig, und Deutschland sei für die Ukraine bereit, einen hohen wirtschaftlichen Preis zu zahlen."
+                },
+                {
+                    "name": "Gerrit Huy",
+                    "party": "AfD",
+                    "satz": "Aber da Sie nur sehr ungern etwas wahrnehmen, was Ihrer Klimaideologie im Wege steht, möchte ich diese Erkenntnis noch etwas nachschärfen."
+                },
+                {
+                    "name": "Jan Wenzel Schmidt",
+                    "party": "AfD",
+                    "satz": "Auf dem Scheiterhaufen der Klimaideologie werden immer mehr deutsche Unternehmen ihr Ende finden."
+                },
+                {
+                    "name": "Dirk Brandes",
+                    "party": "AfD",
+                    "satz": "Jetzt wollen Sie zusätzliche Mauteinnahmen nicht nur für die Straßensanierung nutzen, sondern auch für Ihre Klimaideologie."
+                },
+                {
+                    "name": "Bernd Schattner",
+                    "party": "AfD",
+                    "satz": "Statt die Ärmsten der Gesellschaft gezielt zu unterstützen, trägt dieser Haushalt klar den Stempel der\n                    Klimaideologie."
+                },
+                {
+                    "name": "Karsten Hilse",
+                    "party": "AfD",
+                    "satz": "Deswegen besteht die Gefahr, dass Sie dieses Gesetz benutzen, um auch andere Firmen und Konzerne zu enteignen, wenn sie sich, was weiß ich, Ihrer Klimaideologie nicht anschließen oder wie auch immer."
+                }
+            ]
+        },
+        "Vielfaltsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Marc Jongen",
+                    "party": "AfD",
+                    "satz": "Ich finde es auch immer wieder frappierend: Je vehementer Vielfalt eingefordert wird, desto uniformer und austauschbarer sieht das Ergebnis aus, weil es eben nicht die von unten gewachsene Vielfalt ist, sondern eine von oben übergestülpte Vielfaltsideologie, meine Damen und Herren."
+                },
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Überall schlägt es uns entgegen: Es geht so gut wie immer um den Umbau unserer Gesellschaft, um die Durchsetzung einer vermeintlich bunten Multikulti-, Diversitäts-, Integrationsphantasma- und Gendergaga-, gar Vielfaltsideologie."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Hannes Gnauck",
+                    "party": "AfD",
+                    "satz": "Im Wehrbericht steht dazu nicht mal eine Viertelseite, zu Gender- und Vielfaltsideologie hingegen mehrere Seiten."
+                }
+            ]
+        },
+        "ideologiebefreiten": {
+            "Legislatur 20": [
+                {
+                    "name": "Gottfried Curio",
+                    "party": "AfD",
+                    "satz": "Wir plädieren für einen ideologiebefreiten Rundumblick."
+                }
+            ]
+        },
+        "ideologiegetriebenen": {
+            "Legislatur 19": [
+                {
+                    "name": "Gerold Otten",
+                    "party": "AfD",
+                    "satz": "Wir lehnen daher den unsinnigen und ideologiegetriebenen Antrag der Linken ab und stimmen der vorliegenden Beschlussempfehlung zu."
+                },
+                {
+                    "name": "Martin Reichardt",
+                    "party": "AfD",
+                    "satz": "Das, meine Damen und Herren, ist die Folge einer jahrelangen ideologiegetriebenen falschen Bildungspolitik, die in sinnlose Bildungsexperimente investiert hat."
+                },
+                {
+                    "name": "Stephan Brandner",
+                    "party": "AfD",
+                    "satz": "Hinter verschlossenen Türen unter Ausschluss großer Teile der Opposition wird gemauschelt, geschachert und gefeilscht, und das nicht etwa zum Wohle Deutschlands, sondern zum ideologiedurchtränkten Schaden, zum ideologiegetriebenen Schaden für alle Bürger."
+                },
+                {
+                    "name": "Berengar Elsner von Gronow",
+                    "party": "AfD",
+                    "satz": "Was aber nicht passieren darf, ist, dass er als weiteres Mittel im einseitig ideologiegetriebenen Kampf gegen rechts missbraucht wird."
+                },
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Weiterhin sind alle ideologiegetriebenen Ausgaben der vergangenen Jahre ohne jede Einsparung darin enthalten: EU-Transferkosten, Immigrationskosten, Kosten der CO Wie gelingen diese Wunder?"
+                },
+                {
+                    "name": "Steffen Kotré",
+                    "party": "AfD",
+                    "satz": "Wir haben es hier mit einer ideologiegetriebenen Politik zu tun, und die Fantasten der Energiewende versuchen, die Physik und die Ökonomie auszuhebeln."
+                },
+                {
+                    "name": "Ulrich Oehme",
+                    "party": "AfD",
+                    "satz": "Und als Zweites muss man klar an die Entwicklungsländer kommunizieren: Die Unterstützung findet nur zeitlich begrenzt statt, sie geht mit einer klaren Exit-Strategie einher, die Eigenverantwortung der Länder wird gefordert, und vor allem: keine ideologiegetriebenen Minimalstprojekte à la gendersensible Männerarbeit und Ähnliches."
+                },
+                {
+                    "name": "Marc Bernhard",
+                    "party": "AfD",
+                    "satz": "Anders als Sie in Ihrem Antrag behaupten, handelt es sich jedenfalls bei den meisten Maßnahmen eben nicht um Investitionen, sondern einfach nur um ideologiegetriebenen Konsum."
+                },
+                {
+                    "name": "Enrico Komning",
+                    "party": "AfD",
+                    "satz": "Der Schiffbau in Deutschland steht wegen Ihrer kurzsichtigen und ideologiegetriebenen Politik vor einem Scherbenhaufen."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Malte Kaufmann",
+                    "party": "AfD",
+                    "satz": "Deutschland dagegen frönt einer ideologiegetriebenen, grünen Außenhandelspolitik, die am Ende gar niemandem dient – weder uns selbst noch den\n                    potenziellen Lieferländern."
+                },
+                {
+                    "name": "Marcus Bühl",
+                    "party": "AfD",
+                    "satz": "Der vorgelegte Haushalt des Innenministeriums ist das erschütternde Zahlenwerk dieser links-grünen Bundesregierung und ihrer ideologiegetriebenen\n                    Innenpolitik, die wir ablehnen."
+                }
+            ]
+        },
+        "Herrschaftsideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Marc Jongen",
+                    "party": "AfD",
+                    "satz": "Seltsam nur, dass dieser Gratismut oder besser: dieser fürstlich honorierte Pseudomut immer eins zu eins konform geht mit der Herrschaftsideologie der Regierenden."
+                }
+            ]
+        },
+        "ideologiebeseelten": {
+            "Legislatur 20": [
+                {
+                    "name": "Nicole Höchst",
+                    "party": "AfD",
+                    "satz": "Vor der Flüchtlingskrise bis zur intellektuellen Kernschmelze kaputtreformiert, weiterhin überfrachtet mit unhaltbaren, bunten, nachhaltigen und Hauptsache ideologiebeseelten Heilsversprechen, sinkt das Bildungsniveau stetig weiter."
+                }
+            ]
+        },
+        "Ideologiegetriebene": {
+            "Legislatur 19": [
+                {
+                    "name": "Götz Frömming",
+                    "party": "AfD",
+                    "satz": "Denn gleichzeitig verfolgen Sie mit dieser Strategie ideologiegetriebene gesellschafts- und umweltpolitische Ziele, die sich mit dem Stichwort der „Großen Transformation“, also einer alle Bereiche erfassenden Umgestaltung unseres Landes, am besten beschreiben lassen – einem Begriff, den Sie, meine Damen und Herren, inzwischen ja vermeiden, weil Sie gemerkt haben, dass er den Menschen Angst macht, und zwar zu Recht."
+                },
+                {
+                    "name": "Rainer Kraft",
+                    "party": "AfD",
+                    "satz": "Das Vernichten von Werten für eine ideologiegetriebene Planwirtschaft stellt einen gesellschaftlichen Rückschritt, einen Zivilisationsbruch dar."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Tino Chrupalla",
+                    "party": "AfD",
+                    "satz": "Ideologiegetriebene Cancel Culture für Freiheit und Demokratie!"
+                },
+                {
+                    "name": "Tino Chrupalla",
+                    "party": "AfD",
+                    "satz": "Beides sind ideologiegetriebene Trugbilder, die unendliche Ressourcen verschwenden, und ihr Ziel, wenn überhaupt, nur ansatzweise überhaupt erreichen können."
+                },
+                {
+                    "name": "Steffen Kotré",
+                    "party": "AfD",
+                    "satz": "Wenn nun Windindustrie- und Photovoltaikanlagen zur nationalen Sicherheit gerechnet werden und nicht etwa die Versorgungssicherheit selbst, dann muss die links-grüne ideologiegetriebene Politik nichts mehr begründen."
+                },
+                {
+                    "name": "Steffen Kotré",
+                    "party": "AfD",
+                    "satz": "Wenn nun Windindustrie- und Photovoltaikanlagen zur nationalen Sicherheit gerechnet werden und nicht etwa die Versorgungssicherheit selbst, dann muss die links-grüne ideologiegetriebene Politik nichts mehr begründen."
+                },
+                {
+                    "name": "Enrico Komning",
+                    "party": "AfD",
+                    "satz": "Ursachen sind Ihre bewusst herbeigeführte, zumindest bewusst in Kauf genommene Inflation, Ihre rein ideologiegetriebene, vollkommen wirkungslose und darüber hinaus umweltzerstörende Energiewende, Ihre mittelstandsfeindliche Wirtschaftspolitik und nicht zuletzt Ihr hysterisches Taumeln durch die Coronazeit."
+                },
+                {
+                    "name": "Enrico Komning",
+                    "party": "AfD",
+                    "satz": "Beenden Sie endlich diese vollkommen nutzlose, monströs teure, umweltzerstörende und am Ende rein ideologiegetriebene Energiewende!"
+                },
+                {
+                    "name": "Tino Chrupalla",
+                    "party": "AfD",
+                    "satz": "Das ist der Auftrag an die Politik, nicht ideologiegetriebene\n                    und starrsinnige Projekte auf Kosten des Bundeshaushaltes und damit auch der Steuerzahler."
+                },
+                {
+                    "name": "René Bochmann",
+                    "party": "AfD",
+                    "satz": "Statt deutsche Steuergelder für ideologiegetriebene Ökoprojekte in aller Welt zu versenken, sollten wir nach zehn vergeudeten Jahren endlich an Deutschlands Wirtschaft denken und auch die Infrastruktur bei Bundeswehr und Bundespolizei berücksichtigen."
+                }
+            ]
+        },
+        "Ideologiemembranen": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Sie und Ihre Politik haben nicht nur im Bereich der Kultur und in den Medien, sondern überall unüberwindbare Ideologiemembranen installiert."
+                }
+            ]
+        },
+        "Universalismusideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Matthias Helferich",
+                    "party": "AfD",
+                    "satz": "Es geht Ihnen darum, dass Ihre Trans- und Universalismusideologie mit dem Staat und Volk amalgamiert."
+                }
+            ]
+        },
+        "Ideologiesumpf": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Reichardt",
+                    "party": "AfD",
+                    "satz": "Wir lehnen daher diesen Gesetzentwurf ab und steigen nun in den linken Ideologiesumpf hinab und kommen zum Antrag der SED-Nachfolger: „28 Tage\n                    Elternschutz für den zweiten Elternteil ab Geburt des Kindes einführen“."
+                }
+            ]
+        },
+        "Ideologietitel": {
+            "Legislatur 20": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "der Klima- und Transformationsfonds kann als reiner Ideologietitel weitgehend gestrichen werden."
+                }
+            ]
+        },
+        "Regierungsideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Reichardt",
+                    "party": "AfD",
+                    "satz": "Es ist ein Gesetzentwurf, der Meinungen, die nicht der Regierungsideologie entsprechen, als demokratiegefährdend diffamiert."
+                }
+            ]
+        },
+        "Ideologieprojekten": {
+            "Legislatur 19": [
+                {
+                    "name": "Norbert Kleinwächter",
+                    "party": "AfD",
+                    "satz": "Wir fordern eine bessere Grundausstattung der Hochschulen, damit sie bessere Arbeitsbedingungen bieten, besseres Personal rekrutieren können und unabhängig von Ideologieprojekten mehr Freiheit für Grundlagenforschung haben."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Ulrike Schielke-Ziesing",
+                    "party": "AfD",
+                    "satz": "Und auch bei den Ideologieprojekten wie etwa den Maßnahmen zur Förderung ausgewogener Ernährung sehen wir Sparpotenzial."
+                }
+            ]
+        },
+        "Ideologieexport": {
+            "Legislatur 19": [
+                {
+                    "name": "Beatrix Storch",
+                    "party": "AfD",
+                    "satz": "Egal, in Antrag und Anfrage vermischen die Grünen absichtsvoll – ich sage ausdrücklich: legitime – Anliegen zum Schutz der persönlichen Freiheit und körperlichen Unversehrtheit mit links-grünem Ideologieexport und Klientelpolitik."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Dietmar Friedhoff",
+                    "party": "AfD",
+                    "satz": "Das ist westlicher Ideologieexport, aber keine Selbstentwicklungspolitik."
+                }
+            ]
+        },
+        "ideologiegetränkten": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Der ausgebeutete Steuerzahler hat die Einengung kultureller und künstlerischer Freiheit unter so ideologiegetränkten vorgegebenen Parametern wie Geschlechtergerechtigkeit, Diversitätsentwicklung, Multikulturalismus und Klimaneutralität zu alimentieren, vorgegeben innerhalb der Kultur, der Kunst, der Medien."
+                }
+            ]
+        },
+        "Klimaschutzideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Tino Chrupalla",
+                    "party": "AfD",
+                    "satz": "Sie alle, die Sie hier vor mir sitzen, haben sich der Klimaschutzideologie verschrieben und ohne Rücksicht auf Verluste die Energiewende durchgedrückt."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Karsten Hilse",
+                    "party": "AfD",
+                    "satz": "Dazu werden wir weder Ihnen noch sonst jemandem\n                    jemals unsere Stimme geben, sondern wir werden Sie mit Ihrer Klimaschutzideologie auf jede demokratische und legale Art und Weise bekämpfen."
+                }
+            ]
+        },
+        "Ideologiebeseelt": {
+            "Legislatur 20": [
+                {
+                    "name": "Nicole Höchst",
+                    "party": "AfD",
+                    "satz": "Ideologiebeseelt unterteilen Sie Frauen in solche mit und ohne Menstruationshintergrund."
+                }
+            ]
+        },
+        "Ideologiegebäude": {
+            "Legislatur 20": [
+                {
+                    "name": "Michael Kaufmann",
+                    "party": "AfD",
+                    "satz": "Weil die Forschung an der friedlichen Nutzung der Kernenergie, an synthetischen Kraftstoffen, an neuen umweltverträglichen Technologien für Kohle- und Gaskraftwerke im Ideologiegebäude dieser, aber auch der Vorgängerregierungen keinen Platz hatte, kann Deutschland seinen Energiebedarf nicht aus eigener Kraft decken."
+                }
+            ]
+        },
+        "ideologiegesättigter": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Ob nun Algorithmus oder ideologiegesättigter Haltungsjournalismus, ja, beiden wohnt ein starkes Potenzial zur Manipulation der öffentlichen Meinung\n                    inne."
+                }
+            ]
+        },
+        "ideologiebasiertes": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Ganz klar ist: Wir wollen keine profitorientierte Meinungsdominanz der globalistischen Plattformbetreiber; aber wir wollen auch kein lenkendes, ideologiebasiertes Informationsmanagement des politmedialen Komplexes."
+                }
+            ]
+        },
+        "ideologiefreier": {
+            "Legislatur 20": [
+                {
+                    "name": "Gottfried Curio",
+                    "party": "AfD",
+                    "satz": "Ein ideologiefreier Rundumblick klärt da über die Proportionen auf."
+                }
+            ]
+        },
+        "Ideologiepolitik": {
+            "Legislatur 19": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Sie sind noch immer hoch; doch die gängelnde Ideologiepolitik der Regierung gegen deutsche Schlüsselindustrien – und übrigens auch gegen die heute demonstrierenden Landwirte hier draußen – wird am Arbeitsmarkt und im Haushalt ein Desaster anrichten."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Herr Lindner, Ihre Aufgabe wäre es, alles Mögliche zu tun, um den Steuerzahler vor weiteren superteuren Zugriffen der rot-grünen Planwirtschaft und Ideologiepolitik zu schützen, nicht etwa, diese „möglich“ zu machen."
+                },
+                {
+                    "name": "Alice Weidel",
+                    "party": "AfD",
+                    "satz": "Die Staatsausgaben müssen auf das Wesentliche konzentriert werden: innere und äußere Sicherheit, Gewährleistung von Rechtsstaatlichkeit und öffentlicher Ordnung, Schluss mit Ideologiepolitik, Klientelversorgung und Geldverteilen in alle Welt."
+                }
+            ]
+        },
+        "Ideologiebetrieb": {
+            "Legislatur 20": [
+                {
+                    "name": "Dietmar Friedhoff",
+                    "party": "AfD",
+                    "satz": "Werte Frau Ministerin, stoppen Sie endlich das Entwicklungsillusionstheater und beenden Sie den linken Ideologiebetrieb!"
+                }
+            ]
+        },
+        "One-World-Ideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Ist es die utopische und international-sozialistische One-World-Ideologie?"
+                },
+                {
+                    "name": "Norbert Kleinwächter",
+                    "party": "AfD",
+                    "satz": "Wenn Sie so die Menschen mit Behinderungen für Ihre One-World-Ideologie – Herr Kleinwächter, achten Sie bitte auf die Zeit."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Matthias Helferich",
+                    "party": "AfD",
+                    "satz": "Wenn globalistische Anywheres in alle Winkel der Erde ihre One-World-Ideologie tragen, wie sollen diese Weltbürger dann die Vielfalt der Welt erhalten?"
+                }
+            ]
+        },
+        "Klimaschutz-CO2-Ideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Massive Staatsverschuldung in Europa und Deutschland in Verbindung mit der Monetisierung dieser Gelder durch die EZB, dann Klimaschutz-CO2-Ideologie, was Energie und Nahrungsmittel massiv verteuert, Coronamaßnahmen, die die Transportlogistik weltweit erschweren und das Angebot verknappen, Zuwanderung, die die Preise für Wohnraum nach oben treibt, Bürokratie und EU‑Planwirtschaft, eine Sanktionspolitik, die uns selbst am meisten schadet, sowie fehlende Kartellkontrolle über die Energie- und Benzinoligopolunternehmen – all das sind Inflationsursachen."
+                }
+            ]
+        },
+        "Transideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Beatrix Storch",
+                    "party": "AfD",
+                    "satz": "Die Transideologie ist totalitär, und sie ist zwangsläufig totalitär."
+                }
+            ]
+        },
+        "Ideologieagenda": {
+            "Legislatur 20": [
+                {
+                    "name": "Ulrike Schielke-Ziesing",
+                    "party": "AfD",
+                    "satz": "Aber Sie setzen eben Ihre Prioritäten anders; denn es muss ja Geld her für Ihre Lobbykollegen und die grüne Ideologieagenda Ihres Ministeriums."
+                }
+            ]
+        },
+        "Ideologiepositionen": {
+            "Legislatur 20": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Absurde Ironie am Rande: Sozialpolitik etwa könnte künftig weiterhin der Schuldenbremse unterliegen, diverse Ideologiepositionen aber nicht."
+                }
+            ]
+        },
+        "Ideologieprojekte": {
+            "Legislatur 19": [
+                {
+                    "name": "Alice Weidel",
+                    "party": "AfD",
+                    "satz": "Lieber erfinden Sie neue Ausgabentatbestände für noch mehr Umverteilung, für noch mehr Klientelpolitik und Ideologieprojekte, für die Rettung des Euros und natürlich für die Alimentierung von Millionen von Asyleinwanderern."
+                },
+                {
+                    "name": "Stephan Brandner",
+                    "party": "AfD",
+                    "satz": "Unsinnige Ideologieprojekte wie Geld für die Bundesstiftung Magnus Hirschfeld, die sich mit irgendwelchem Sexgebaren beschäftigt und dritten und weiteren Geschlechtern Vorschub leisten will."
+                },
+                {
+                    "name": "Thomas Ehrhorn",
+                    "party": "AfD",
+                    "satz": "Seit Jahrzehnten ertragen wir die verschiedenen Auswüchse linker Ideologieprojekte, deren Hauptmerkmal es ist, keinen Fehler auf dem Weg zum totalen Irrtum zu machen."
+                },
+                {
+                    "name": "Thomas Ehrhorn",
+                    "party": "AfD",
+                    "satz": "Und als ob das alles nicht schon reichen würde, nun auch noch die Ideologieprojekte wie die Inklusion."
+                },
+                {
+                    "name": "Markus Frohnmaier",
+                    "party": "AfD",
+                    "satz": "Linke Ideologieprojekte wie gendersensible Männerarbeit in Nicaragua oder erneuerbare Energien für Moscheen in Marokko werden wir streichen."
+                },
+                {
+                    "name": "Thomas Ehrhorn",
+                    "party": "AfD",
+                    "satz": "Falls ja, dann sollten Sie allerdings auch gleich den nächsten Schritt gehen und sich von der E-Mobilität und der Energiewende verabschieden; denn auch diese Ideologieprojekte führen nirgendwohin – außer in eine lange, totale Sackgasse."
+                },
+                {
+                    "name": "Thomas Ehrhorn",
+                    "party": "AfD",
+                    "satz": "Fast könnte man sagen, dass es dann in diesem Kontext auf ein paar weitere Millionen für feministische Ideologieprojekte auch nicht mehr ankommt, Projekte wie die Bundesstiftung Gleichstellung."
+                },
+                {
+                    "name": "Thomas Ehrhorn",
+                    "party": "AfD",
+                    "satz": "Für mich stellt sich allerdings eine andere Frage: Soll ich wirklich noch einmal darauf hinweisen, dass gerade Hunderttausende von Gewerbetreibenden in unserem Land im Begriff sind, ihre Existenzen zu verlieren, während dieser Bundesregierung offenkundig nichts Besseres einfällt, als zweistellige Millionenbeträge für feministische Ideologieprojekte aus dem Fenster zu werfen?"
+                },
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Weiterhin muss die Bundesregierung sicherstellen, dass alle Mittel aus dem Aufbaufonds tatsächlich in den Flutgebieten, bei den Geschädigten direkt ankommen und nicht etwa für versteckte CO2-Ideologieprojekte zweckentfremdet werden."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Gottfried Curio",
+                    "party": "AfD",
+                    "satz": "Deshalb brauchen wir jetzt den sofortigen Stopp aller sachwidrigen Ideologieprojekte, den Stopp der Resettlement-Aktionen und von weitläufigem Familiennachzug."
+                },
+                {
+                    "name": "Wolfgang Wiehle",
+                    "party": "AfD",
+                    "satz": "Der KTF ist die Spielwiese für Ideologieprojekte und Umverteilung."
+                },
+                {
+                    "name": "Marcus Bühl",
+                    "party": "AfD",
+                    "satz": "Während für links-grüne Ideologieprojekte üppig Steuergeld angefasst wird, kreist an sicherheitsrelevanten Stellen der Rotstift."
+                },
+                {
+                    "name": "Marcus Bühl",
+                    "party": "AfD",
+                    "satz": "Statt sich endlich um einen umfassenden Grenzschutz zu kümmern und den großen Sozialmagneten abzuschalten, macht\n                    sie genau das Gegenteil: Erhebliche Teile des Haushalts, so auch im Bereich der Innenpolitik, verwendet Links-Grün für Ideologieprojekte, zum Beispiel zur\n                    Unterhaltung der Asylindustrie, wie man an Titeln wie „Behördenunabhängige Asylverfahrensberatung“ sehen kann."
+                },
+                {
+                    "name": "Marcus Bühl",
+                    "party": "AfD",
+                    "satz": "Steuergeld für links-grüne Ideologieprojekte wird allerdings reichlich aufgewendet, so zum Beispiel für die üppig versorgte Asylindustrie."
+                },
+                {
+                    "name": "Wolfgang Wiehle",
+                    "party": "AfD",
+                    "satz": "Lösen Sie den sogenannten Klima- und Transformationsfonds auf, der nichts anderes ist als ein Schattenhaushalt, ein intransparenter Geldspeicher für\n                    Ihre Ideologieprojekte."
+                }
+            ]
+        },
+        "ideologietrunkenen": {
+            "Legislatur 20": [
+                {
+                    "name": "Enrico Komning",
+                    "party": "AfD",
+                    "satz": "Wirtschaftspolitik muss endlich zur Chefsache werden und darf nicht ahnungslosen, ideologietrunkenen grünen Wirtschaftsministern und Staatssekretären übergeben werden."
+                }
+            ]
+        },
+        "Ideologiespielzeug": {
+            "Legislatur 20": [
+                {
+                    "name": "Alice Weidel",
+                    "party": "AfD",
+                    "satz": "Brasilien hat auch kein Interesse an grünem Ideologiespielzeug wie dem weltfremden Bürokratiemonster Lieferkettengesetz, das den Freihandel behindert."
+                }
+            ]
+        },
+        "ideologiebasierte": {
+            "Legislatur 19": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "Wir sehen die Gefahr, dass durch gezielte ideologiebasierte Bundeszuwendungen Abhängigkeiten entstehen, die wir im Bereich der Kunst und der Kultur nicht haben wollen."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Marc Bernhard",
+                    "party": "AfD",
+                    "satz": "Für eine rein ideologiebasierte Energiewende, die unsere Energiesicherheit massiv gefährdet und dazu führt, dass wir die höchsten Strompreise der Welt haben."
+                }
+            ]
+        },
+        "ideologiegeleitete": {
+            "Legislatur 20": [
+                {
+                    "name": "Michael Kaufmann",
+                    "party": "AfD",
+                    "satz": "Die ideologiegeleitete Forschungspolitik gibt sich hingegen alle Mühe, die Entwicklung neuer und besserer Reaktortechnik in Deutschland so unattraktiv wie möglich zu machen."
+                }
+            ]
+        },
+        "Ideologieringe": {
+            "Legislatur 20": [
+                {
+                    "name": "Tobias Matthias Peterka",
+                    "party": "AfD",
+                    "satz": "Die Bundesregierung traut also weder den eigenen Beamten noch der freien Wirtschaft, die ja gefälligst ohnehin durch alle Ideologieringe zu springen hat."
+                }
+            ]
+        },
+        "Transformationsideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Peter Boehringer",
+                    "party": "AfD",
+                    "satz": "Man muss einfach mal anfangen, an Klima- und Transformationsideologie zu sparen, dann geht das auch."
+                }
+            ]
+        },
+        "Ideologieberufe": {
+            "Legislatur 20": [
+                {
+                    "name": "Rainer Kraft",
+                    "party": "AfD",
+                    "satz": "Die Versorgungssicherheit grüner Ideologieberufe und grüner Vorfeldorganisationen steht bei Ihnen über der Versorgungssicherheit der Nation."
+                }
+            ]
+        },
+        "Wokismus-Ideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Martin Erwin Renner",
+                    "party": "AfD",
+                    "satz": "In Wirklichkeit aber zeigt sich die Deutsche Welle zunehmend als Mitsänger im Chor der internationalen kulturmarxistischen Wokismus-Ideologie, ein Chor, der getragen wird von links-grünen, ökosozialistischen Regierungen, von internationalen politischen Institutionen, NGOs, Organisationen und Stiftungen und von milliardenschweren angeblichen Philanthropen und gekauften Beeinflussungs- und Agitationsblockflöten."
+                }
+            ]
+        },
+        "Ideologiepapier": {
+            "Legislatur 19": [
+                {
+                    "name": "Martin Reichardt",
+                    "party": "AfD",
+                    "satz": "Dieser Antrag ist ein Ideologiepapier."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Wolfgang Wiehle",
+                    "party": "AfD",
+                    "satz": "Stattdessen hat man offensichtlich einfach ein grünes Ideologiepapier aus der Schublade gezogen, so wie das, aus dem Sie vorhin abgelesen haben."
+                }
+            ]
+        },
+        "Ideologieprojekt": {
+            "Legislatur 19": [
+                {
+                    "name": "Stephan Brandner",
+                    "party": "AfD",
+                    "satz": "Etwa 75 Prozent – Sie erinnern sich vielleicht – der CDU/CSU-Abgeordneten insgesamt, darunter nahezu alle CSU-Abgeordneten, sprachen sich gegen dieses rot-grüne Ideologieprojekt aus, gegen ein Projekt, mit dem das verfassungsrechtlich geschützte Institut der Ehe als dauerhafte Verbindung zwischen einem Mann und einer Frau auf dem Altar der bunten Beliebigkeit geopfert wurde, als erster Schritt übrigens – ich vermute das – in Richtung gänzliche Beliebigkeit."
+                },
+                {
+                    "name": "Wolfgang Wiehle",
+                    "party": "AfD",
+                    "satz": "Wenn die sogenannte Verkehrswende zum Ideologieprojekt wird, dann wird die AfD an der Spitze aller stehen, die das verhindern."
+                },
+                {
+                    "name": "Thomas Ehrhorn",
+                    "party": "AfD",
+                    "satz": "In einer Zeit, in der wir allein auf deutschen Autobahnen pro Jahr durchschnittlich 1,5 Millionen Staukilometer ertragen müssen – was jeden Autofahrer übrigens jährlich etwa 120 Stunden seiner wertvollen Lebenszeit kostet –, in einer Zeit also, in der sich in aller Deutlichkeit zeigt, dass die Verkehrsinfrastruktur unseres Straßennetzes so jedenfalls alles andere als zukunftsfähig ist, beglückt uns nun die grüne Weltuntergangssekte mit einem weiteren Ideologieprojekt."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Klaus Stöber",
+                    "party": "AfD",
+                    "satz": "Anstatt in den nächsten drei Jahren ein rot-grünes Ideologieprojekt umzusetzen, müssen Sie sich mit der größten Wirtschaftskrise in der Geschichte der Bundesrepublik befassen."
+                },
+                {
+                    "name": "Wolfgang Wiehle",
+                    "party": "AfD",
+                    "satz": "Es ist bald 20 Jahre her, dass der damalige grüne Umweltminister\n                    Trittin versprach, dass dieses Ideologieprojekt nicht mehr kosten würde als eine Kugel Eis im Monat."
+                }
+            ]
+        }
+    },
+    "FDP": {
+        "Schutzideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Thomas Sattelberger",
+                    "party": "FDP",
+                    "satz": "Gerade die Linksgeneigten – Frau Fahimi, heute meine ich nicht alleine Sie – bemühen immer wieder die Angst, um ihre Schutzideologie zu rechtfertigen."
+                }
+            ]
+        },
+        "Legitimationsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Linda Teuteberg",
+                    "party": "FDP",
+                    "satz": "Das war eine Legitimationsideologie für die DDR-Diktatur, das ist Agitation linksextremistischer Vorfeldorganisationen, eine Bündnisstrategie linksextremistischer Vorfeldorganisationen und ein Argumentationsmuster bzw."
+                }
+            ]
+        },
+        "Verbotsideologien": {
+            "Legislatur 19": [
+                {
+                    "name": "Judith Skudelny",
+                    "party": "FDP",
+                    "satz": "Vor dem Hintergrund der jünger werdenden Weltbevölkerung kann ich Ihnen eins versprechen: Verzichts- und Verbotsideologien werden uns nicht die Antworten geben, die wir brauchen, um diese Menschen angemessen mit Ernährung, Mobilität, Medizin, Bildung, aber auch Sicherheit zu versorgen."
+                }
+            ]
+        },
+        "Mobilitätsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Katja Hessel",
+                    "party": "FDP",
+                    "satz": "Hier wäre es viel besser, die hierfür veranschlagten knapp 2 Milliarden Euro in den Ausbau der notwendigen Infrastruktur zu investieren, als eine Mobilitätsideologie zu befördern."
+                }
+            ]
+        }
+    },
+    "BÜNDNIS 90_DIE GRÜNEN": {
+        "NS-Ideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Marlene Schönberger",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Wir haben uns als Koalition vorgenommen, ganz genau auf unser Rechtssystem zu schauen, um alle noch vorhandenen Spuren der NS-Ideologie aus unseren Gesetzen zu streichen."
+                }
+            ]
+        },
+        "ideologiegetriebener": {
+            "Legislatur 20": [
+                {
+                    "name": "Lamya Kaddor",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Ich finde, wir sehen hier ein Beispiel für die Folgen ideologiegetriebener und unüberlegter Wortklauberei."
+                }
+            ]
+        },
+        "Ideologievorwurf": {
+            "Legislatur 19": [
+                {
+                    "name": "Maria Klein-Schmeink",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Jedenfalls das, was in diesem Antrag geschrieben steht, rechtfertigt in keiner Weise irgendeinen Ideologievorwurf."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Robert Habeck",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Ich würde es „Ideologievorwurf“ nennen."
+                }
+            ]
+        },
+        "Parteiideologie": {
+            "Legislatur 20": [
+                {
+                    "name": "Bernhard Herrmann",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Mein Appell an Sie hier im Saal: Führen wir eine ehrliche Debatte, frei von Parteiideologie und Polemik, losgelöst von Lobbyinteressen und geleitet vom gemeinsamen Interesse, unser Land in die Energieunabhängigkeit zu führen – Sie kennen die Ursache\n                    dieser Notwendigkeit – und für mehr Wohlstand für unsere Bürgerinnen und Bürger zu sorgen!"
+                }
+            ]
+        },
+        "Verschwörungsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Janosch Dahmen",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Wenn Angriffe auf die Grundrechte das ist, was Sie mit Freiheit verbinden, dann sehen Sie, wie Sie mit Ihren Aktionen die Brüder und Schwestern im Geiste der Querdenkerbewegung vorantreiben in Telegram-Kanälen mit zusätzlicher Verschwörungsideologie und Wissenschaftsleugnung."
+                }
+            ],
+            "Legislatur 20": [
+                {
+                    "name": "Konstantin Notz",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Genau diese abstruse Verschwörungsideologie des Great Reset war in den letzten Jahren immer wieder der Treibstoff für zahlreiche schlimmste Mord- und Terrortaten."
+                },
+                {
+                    "name": "Jamila Schäfer",
+                    "party": "BÜNDNIS 90_DIE GRÜNEN",
+                    "satz": "Und ehrlich gesagt, Herr Moosdorf, finde ich es schon interessant, dass Sie bei der Aufzählung der\n                    Schurken auch George Soros miteinbezogen haben; das knüpft an eine antisemitische Verschwörungsideologie an, die Ihnen jegliche Glaubwürdigkeit auch bei der\n                    Verantwortung gegenüber Jüdinnen und Juden nimmt."
+                }
+            ]
+        }
+    },
+    "DIE LINKE": {
+        "Finanzstandortideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Jörg Cezanne",
+                    "party": "DIE LINKE",
+                    "satz": "Ich fange mal mit dem großen Einstieg an: Dieses Gesetz steht in der unrühmlichen Tradition des Standortwettbewerbs und der Finanzstandortideologie: Deutschland müsse immer noch attraktiver für internationales Kapital werden."
+                }
+            ]
+        },
+        "Betonideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Victor Perli",
+                    "party": "DIE LINKE",
+                    "satz": "Die Große Koalition präsentiert hier einen Haushalt, der die Betonideologie der letzten Jahre nahtlos fortschreibt."
+                }
+            ]
+        },
+        "Blut-und-Boden-Ideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Lorenz Gösta Beutin",
+                    "party": "DIE LINKE",
+                    "satz": "Da bildet sich die Blut-und-Boden-Ideologie nach, die wir auch bei den Nazis schon erleben mussten."
+                }
+            ]
+        },
+        "Regierungsideologie": {
+            "Legislatur 19": [
+                {
+                    "name": "Diether Dehm",
+                    "party": "DIE LINKE",
+                    "satz": "Wenn Sie die Zahlungsausfälle der Kommunen attackieren, attackieren Sie damit auch Ihre eigene Regierungsideologie des krankgekürzten Staats."
+                }
+            ]
+        }
+    },
+    "fraktionslos": {},
+    "Bremen": {},
+    "unknown": {}
+}
