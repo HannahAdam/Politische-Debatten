@@ -1,3 +1,17 @@
+# Infos: 
+
+# Dieser Code dient dazu, die Worte in Listen zu speichern, welche nur von einer Partei benutzt werden. 
+# Deshalb werden diese Worte als Unique Words; einzigartige Worte, bezeichnet. 
+
+
+# Hinweise: 
+
+# Die hier generierten Listen werden bereits im Ordner results zur Verfügung gestellt. 
+# Diese Listen werden in anderen meiner Codes geladen und weiter verwendet, dabei muss der Ablageort auf deinem Computer stimmen. 
+# In der neuen Datei stehen die Wortlisten immer unter einem Schlüsel (key); dem Namen der Partei. 
+# Wenn du einen eigenen Code benutzt, um die hier erstellten Listen zu benutzen, beachte den Namen: _{key}_{legislatur} -> Unterstriche im Namen können in der weiteren Verwendung zu Problemen führen.  
+
+
 import jsonlines
 import json
 import matplotlib.pyplot as plt
@@ -82,34 +96,3 @@ for key,value in uw_all.items():
         json.dump({key : list(value)}, fp, sort_keys=True, indent=4, ensure_ascii=False)
 
 
-
-
-
-#Erstellen von shared unique words (suw) von Parteipaaren
-'''
-rows, cols = (len(uw_all), len(uw_all))
-suw = [[0 for i in range(cols)] for j in range(rows)]
-suw_words = [[0 for i in range(cols)] for j in range(rows)]
-for ix,p1 in enumerate(uw_all.keys()):
-    for jx,p2 in enumerate(uw_all.keys()):
-        if jx > ix:
-            print(p1,p2)
-            tmp = return_unique_words([p1,p2],reden_gefiltert) - return_unique_words(p1,reden_gefiltert) - return_unique_words(p2,reden_gefiltert)
-            suw_words[ix][jx] = tmp
-            suw[ix][jx] = len(tmp)
-            suw[jx][ix] = suw[ix][jx]
-
-print(suw)
-
-#0 SPD, 1 FDP, 2 CDU/CSU, 3 Linke, 4 Grüne, 5 AfD
-
-#Die unique words eines bestimmten Parteienpaares lassen sich jetzt mit Angabe der Parteitabellenplatzzahlen öffnen.
-
-#print(suw_words[0][1])
-
-#print(uw_all.keys())
-#0 SPD, 1 FDP, 2 CDU/CSU, 3 Linke, 4 Grüne, 5 AfD
-'''
-
-#wortlisten zu satzlisten erweitern
-#unique words vergleichen von 19 und 20 (überschnitt?)
