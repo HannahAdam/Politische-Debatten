@@ -1,3 +1,8 @@
+# Info:
+
+# Dieser Code ist eine Variation von der python file "VergleichSuche.py"
+# Anders ist: Hier werden auch leere Suchschlüssel aufgelistet. 
+
 import json
 import os
 
