@@ -1,6 +1,9 @@
 # Info: 
 
 # Dieser Code dient dazu, die vollständigen Satze zu den einzigartigen Worten zu finden.
+# Dabei werden die UniqueWords-Listen aus dem Ordner Vergleich verwendet. 
+# Alle Wörter in der jeweiligen Datei werden in den Reden gesucht 
+# und die vollständigen Sätze in einer neuen Liste (im Ordner worte-final) gespeichert.  
 
 # Das ist wichtig, um die gefundenen Begriffen in einen Kontext zu setzten. 
 # Dieser Teil ist deshalb relevant, weil er explizit zeigt, wie die verschiedenen Parteien Sprache 
