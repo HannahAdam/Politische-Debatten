@@ -1,3 +1,10 @@
+# Info:
+
+# Diese Datei dient dazu, alle UniqueWords-Listen nach einem/mehreren Suchwort/en (Bsp: "ismus" oder "Fanatik", "fanatik") 
+# zu durchsuchen. Danach werden die gefundenen Begriffe in denen das Suchwort vorkommt, 
+# jeweils unter dem Parteinamen (als key), aufgelistet und gespeichert.
+# Für den Dateinamen zum Speichern, wird das, was für die Variable "suchwoerter" steht, übernommen. 
+
 # Das ist meine Datei der Suche ohne leere Schlüssel in der Liste und ohne den Hinweistext
 
 import json
