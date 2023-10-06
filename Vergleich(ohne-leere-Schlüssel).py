@@ -1,3 +1,10 @@
+# Info:
+
+# Dieser Code ist eine Variation von der python file "VergleichSuche.py"
+# Anders ist: Hier werden die leeren Schlüssel nicht aufgelistet. 
+# Stattdessen gibt es einen Infotext darüber, dass die Suche dennoch für alle Parteien durchgeführt wurde.
+# Wenn die Partei nicht aufgelistet ist, wurde das Suchwort in ihren Reden nicht verwendet
+
 import json
 import os
 
